@@ -42,8 +42,4 @@ Optimasi performa aplikasi dan manajemen proyek
 
 📫 Hubungi saya
 
-🌍 Website/Portofolio: [masukin link kamu]
-
-💼 LinkedIn: [masukin link kamu]
-
-📧 Email: [masukin email kamu]
+📧 Email: denyprasetyo41@gmail.com
